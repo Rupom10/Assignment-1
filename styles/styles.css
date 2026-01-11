@@ -28,6 +28,14 @@ body {
 .btn.primary {
   background: #2e8b57;
   color: #fff;
+  
+}
+
+/* Hover effect */
+.primary:hover {
+    background-color: #0359e4;
+    transform: scale(1.05);
+    
 }
 
 .btn.outline {
